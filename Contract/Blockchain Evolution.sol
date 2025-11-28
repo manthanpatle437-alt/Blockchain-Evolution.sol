@@ -3,7 +3,7 @@ pragma solidity ^0.8.0;
 
 /**
  * @title Blockchain Evolution
- * @dev A simple smart contract to demonstrate blockchain data storage and interaction.
+ * @dev A simple smart contract to demonstrate blockchain  data storage and interaction.
  */
 contract BlockchainEvolution {
 
